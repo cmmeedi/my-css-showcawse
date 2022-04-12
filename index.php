@@ -13,7 +13,9 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="https://my-css-showcase.herokuapp.com/index.html">Click Me</a>
+    <form method='get' action="https://my-css-showcase.herokuapp.com/index.html">
+        <button>Click Me</button>
+    </form>
     
 </body>
 </html>
