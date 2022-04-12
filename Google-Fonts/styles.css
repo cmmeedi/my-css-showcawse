@@ -1,0 +1,24 @@
+body{
+    font-family: 'Playfair Display', sans-serif;
+    background: center/cover url('/CSS/CSS-4/Google-Fonts/Assets/Oceans.jpg') no-repeat;
+}
+main{
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+}
+
+h1, h2, h3{
+    font-family: 'Shadows into Light', cursive;
+    font-weight: 200;
+}
+
+h1 + h2{
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 3rem;
+    margin-bottom: 0;
+}

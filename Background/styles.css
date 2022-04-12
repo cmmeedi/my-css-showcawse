@@ -1,0 +1,12 @@
+section{
+    width: 80%;
+    height: 800px;
+    background: center/40% no-repeat url('/CSS/CSS-4/Background/Assets/Red-Koala-Background.jpg') black;
+    margin: 0 auto;
+
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+}
